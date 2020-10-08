@@ -1,4 +1,4 @@
-# Gathering Data from form images with OpenCV
+# Gathering Data from Form Images with OpenCV
 
 These are the steps taking in this code:
 
@@ -6,3 +6,5 @@ These are the steps taking in this code:
 * Pre-processed the images with OpenCV functions in order to gain a cleaner output.
 * Obtained the pixel location of letterboxes and checkboxes with OpenCV.
 * Extracted all the required data and stored them in separate files.
+
+#Demo
