@@ -9,4 +9,6 @@ These are the steps taking in this code:
 
 # sample Input Image
 
+![GitHub Logo](/tests/12.jpg)
+
 # sample Outputs
