@@ -9,6 +9,6 @@ These are the steps taking in this code:
 
 # sample Input Image
 
-![](/tests/12.jpg)
+![](/tests/12.jpg){:height="50%" width="50%"}
 
 # sample Outputs
