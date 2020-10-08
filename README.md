@@ -9,5 +9,6 @@ These are the steps taking in this code:
 
 # sample Input Image
 
-![](/tests/12.jpg =24x48)
+![](/tests/12.jpg)
 # sample Outputs
+![](/sample_output.jpg)
