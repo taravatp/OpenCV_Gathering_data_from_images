@@ -11,4 +11,4 @@ These are the steps taking in this code:
 
 ![](/tests/12.jpg)
 # sample Outputs
-![](/sample_output.jpg)
+![](/sample_output.png)
