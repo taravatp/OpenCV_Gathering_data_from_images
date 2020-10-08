@@ -7,4 +7,6 @@ These are the steps taking in this code:
 * Obtained the pixel location of letterboxes and checkboxes with OpenCV.
 * Extracted all the required data and stored them in separate files.
 
-# Demo
+# sample Input Image
+
+# sample Outputs
