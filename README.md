@@ -9,6 +9,6 @@ These are the steps taking in this code:
 
 # sample Input Image
 
-![GitHub Logo](/tests/12.jpg)
+![](/tests/12.jpg =250x250)
 
 # sample Outputs
