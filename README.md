@@ -1,4 +1,4 @@
-# Gathering Data from form images with OpenCv
+# Gathering Data from form images with OpenCV
 
 These are the steps taking in this code:
 
