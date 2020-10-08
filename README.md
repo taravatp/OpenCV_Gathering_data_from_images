@@ -9,6 +9,6 @@ These are the steps taking in this code:
 
 # sample Input Image
 
-![](/tests/12.jpg =250x250)
+![](/tests/12.jpg | width=100)
 
 # sample Outputs
